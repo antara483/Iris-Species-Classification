@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+.venv/
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyCharm / VSCode / IDE files
+.idea/
+.vscode/
+*.code-workspace
+
+# macOS & system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data & model files (optional — comment out if you want to keep)
+*.csv
+*.tsv
+*.json
+*.joblib
+*.h5
+*.model
+*.bin
+
+# Environment and dependency files (auto-generated)
+requirements.txt
+
+
+# Output folders
+outputs/
+saved_models/
+__results__/
