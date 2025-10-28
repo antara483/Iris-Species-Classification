@@ -41,11 +41,11 @@ Each sample belongs to one of three species:
 
 - Classification report
 
-## Visualized:
+#### 6. Visualized:
 
 - Decision boundaries
 
 - K-value vs Accuracy curve
 
-Understanding the bias-variance tradeoff using K vs Accuracy plot
+#### 7. Understanding the bias-variance tradeoff using K vs Accuracy plot
 
