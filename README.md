@@ -3,6 +3,8 @@
 This project classifies iris flowers into three species — Setosa, Versicolor, and Virginica — using the K-Nearest Neighbors (KNN) algorithm.
 The project also includes data preprocessing, model evaluation, and a visualization of KNN decision boundaries.
 
+Dataset[https://www.kaggle.com/datasets/uciml/iris]
+
 ### 📘 Dataset
 
 The Iris dataset is one of the most famous datasets in machine learning, containing 150 samples of iris flowers with 4 features:
