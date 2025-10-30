@@ -5,6 +5,16 @@ The project also includes data preprocessing, model evaluation, and a visualizat
 
 Dataset[https://www.kaggle.com/datasets/uciml/iris]
 
+## 🖼️ Model Output
+
+Here’s how the KNN classifier visualization looks:
+
+![Confusion Matrix](images/Screenshot%201.png)
+
+And here’s the accuracy result:
+
+![Accuracy Score](images/Screenshot%202.png)
+
 ### 📘 Dataset
 
 The Iris dataset is one of the most famous datasets in machine learning, containing 150 samples of iris flowers with 4 features:
