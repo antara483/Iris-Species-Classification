@@ -7,7 +7,7 @@ Dataset[https://www.kaggle.com/datasets/uciml/iris]
 
 ## 🖼️ Model Output
 
-Here’s how the KNN classifier visualization looks:
+Here’s how the KNN Decision Boundaries looks:
 
 ![Confusion Matrix](images/Screenshot%201.png)
 
